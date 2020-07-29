@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Renderable
+comment1.params=location\ vector
+comment1.target=void\ prepare(Vector,\ Vector)
+comment2.params=
+comment2.target=boolean\ willCollide()
+comment3.params=
+comment3.target=double\ vectorDistance()
+comment4.params=
+comment4.target=Vector\ collision()
+comment5.params=location
+comment5.target=Vector\ normal(Vector)
+comment6.params=location
+comment6.target=Vector\ color(Vector)
+comment7.params=
+comment7.target=double\ reflectiveness()
+numComments=8

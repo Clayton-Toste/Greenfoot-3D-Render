@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Ball
+comment1.params=_location_\ _affilation_
+comment1.target=Ball(Vector,\ int)
+comment2.params=_location_\ _vector_
+comment2.target=void\ prepare(Vector,\ Vector)
+comment3.params=
+comment3.target=boolean\ willCollide()
+comment4.params=
+comment4.target=double\ vectorDistance()
+comment5.params=
+comment5.target=Vector\ collision()
+comment6.params=_location_
+comment6.target=Vector\ normal(Vector)
+comment7.params=_location_
+comment7.target=Vector\ color(Vector)
+comment8.params=
+comment8.target=double\ reflectiveness()
+numComments=9

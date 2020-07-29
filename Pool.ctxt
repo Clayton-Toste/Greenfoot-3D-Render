@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Pool
+comment0.text=\ \r\n\ Table\ is\ 800x400\r\n\ Ball\ radius\ is\ 21.42857142857143\u202C\r\n
+comment1.params=
+comment1.target=Pool()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=_yaw_\ _pitch_
+comment3.target=void\ setCameraRot(double,\ double)
+comment4.params=_x_\ _y_\ _z_
+comment4.target=void\ setCameraLoc(double,\ double,\ double)
+comment5.params=_yaw_\ _pitch_
+comment5.target=void\ setLight(double,\ double)
+comment6.params=_img_
+comment6.target=Vector[][]\ readImage(java.lang.String)
+numComments=7

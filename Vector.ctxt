@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Vector
+comment1.params=_x_\ _y_\ _z_
+comment1.target=Vector(double,\ double,\ double)
+comment10.params=
+comment10.target=double\ size()
+comment2.params=_other_
+comment2.target=Vector\ add(Vector)
+comment3.params=_other_
+comment3.target=Vector\ subtract(Vector)
+comment4.params=_scale_
+comment4.target=Vector\ scale(double)
+comment5.params=
+comment5.target=greenfoot.Color\ toColor()
+comment6.params=_other_
+comment6.target=double\ dotProduct(Vector)
+comment7.params=_other_
+comment7.target=Vector\ crossProduct(Vector)
+comment8.params=_x_\ _y_\ _z_
+comment8.target=Vector\ transform(Vector,\ Vector,\ Vector)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=11
